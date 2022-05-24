@@ -1,0 +1,7 @@
+tqdm
+numpy
+pandas
+torch
+torchvision
+pytorch-transformers
+pytorch-crf
